@@ -1,0 +1,10 @@
+.table-td-link-normal {
+    color: #66CCFF;
+    text-decoration: underline;
+    cursor: default;
+}
+
+.table-td-link-click {
+    color: #EE0000;
+    cursor: pointer;
+}
